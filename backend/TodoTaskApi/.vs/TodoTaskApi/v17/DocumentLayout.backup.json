@@ -1,7 +1,72 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Yosh\\Desarrollo\\to-do-task\\backend\\TodoTaskApi\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{609E716D-26E0-4D3B-AA8E-860108A7E251}|TodoTaskApi.csproj|c:\\yosh\\desarrollo\\to-do-task\\backend\\todotaskapi\\tests\\todotaskapi.tests\\services\\todoservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{609E716D-26E0-4D3B-AA8E-860108A7E251}|TodoTaskApi.csproj|solutionrelative:tests\\todotaskapi.tests\\services\\todoservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{609E716D-26E0-4D3B-AA8E-860108A7E251}|TodoTaskApi.csproj|c:\\yosh\\desarrollo\\to-do-task\\backend\\todotaskapi\\tests\\todotaskapi.tests\\controllers\\todocontrollerintegrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{609E716D-26E0-4D3B-AA8E-860108A7E251}|TodoTaskApi.csproj|solutionrelative:tests\\todotaskapi.tests\\controllers\\todocontrollerintegrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{609E716D-26E0-4D3B-AA8E-860108A7E251}|TodoTaskApi.csproj|c:\\yosh\\desarrollo\\to-do-task\\backend\\todotaskapi\\tests\\todotaskapi.tests\\base\\servicetestbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{609E716D-26E0-4D3B-AA8E-860108A7E251}|TodoTaskApi.csproj|solutionrelative:tests\\todotaskapi.tests\\base\\servicetestbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{609E716D-26E0-4D3B-AA8E-860108A7E251}|TodoTaskApi.csproj|c:\\yosh\\desarrollo\\to-do-task\\backend\\todotaskapi\\tests\\todotaskapi.tests\\base\\basecontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{609E716D-26E0-4D3B-AA8E-860108A7E251}|TodoTaskApi.csproj|solutionrelative:tests\\todotaskapi.tests\\base\\basecontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{609E716D-26E0-4D3B-AA8E-860108A7E251}|TodoTaskApi.csproj|c:\\yosh\\desarrollo\\to-do-task\\backend\\todotaskapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{609E716D-26E0-4D3B-AA8E-860108A7E251}|TodoTaskApi.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{609E716D-26E0-4D3B-AA8E-860108A7E251}|TodoTaskApi.csproj|c:\\yosh\\desarrollo\\to-do-task\\backend\\todotaskapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{609E716D-26E0-4D3B-AA8E-860108A7E251}|TodoTaskApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{609E716D-26E0-4D3B-AA8E-860108A7E251}|TodoTaskApi.csproj|c:\\yosh\\desarrollo\\to-do-task\\backend\\todotaskapi\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}|",
+      "RelativeMoniker": "D:0:0:{609E716D-26E0-4D3B-AA8E-860108A7E251}|TodoTaskApi.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{609E716D-26E0-4D3B-AA8E-860108A7E251}|TodoTaskApi.csproj|c:\\yosh\\desarrollo\\to-do-task\\backend\\todotaskapi\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{609E716D-26E0-4D3B-AA8E-860108A7E251}|TodoTaskApi.csproj|solutionrelative:controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{609E716D-26E0-4D3B-AA8E-860108A7E251}|TodoTaskApi.csproj|c:\\yosh\\desarrollo\\to-do-task\\backend\\todotaskapi\\services\\todoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{609E716D-26E0-4D3B-AA8E-860108A7E251}|TodoTaskApi.csproj|solutionrelative:services\\todoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{609E716D-26E0-4D3B-AA8E-860108A7E251}|TodoTaskApi.csproj|c:\\yosh\\desarrollo\\to-do-task\\backend\\todotaskapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{609E716D-26E0-4D3B-AA8E-860108A7E251}|TodoTaskApi.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{609E716D-26E0-4D3B-AA8E-860108A7E251}|TodoTaskApi.csproj|c:\\yosh\\desarrollo\\to-do-task\\backend\\todotaskapi\\todotaskapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{609E716D-26E0-4D3B-AA8E-860108A7E251}|TodoTaskApi.csproj|solutionrelative:todotaskapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{609E716D-26E0-4D3B-AA8E-860108A7E251}|TodoTaskApi.csproj|c:\\yosh\\desarrollo\\to-do-task\\backend\\todotaskapi\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{609E716D-26E0-4D3B-AA8E-860108A7E251}|TodoTaskApi.csproj|solutionrelative:models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{609E716D-26E0-4D3B-AA8E-860108A7E251}|TodoTaskApi.csproj|c:\\yosh\\desarrollo\\to-do-task\\backend\\todotaskapi\\data\\tododbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{609E716D-26E0-4D3B-AA8E-860108A7E251}|TodoTaskApi.csproj|solutionrelative:data\\tododbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{609E716D-26E0-4D3B-AA8E-860108A7E251}|TodoTaskApi.csproj|c:\\yosh\\desarrollo\\to-do-task\\backend\\todotaskapi\\services\\itodoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{609E716D-26E0-4D3B-AA8E-860108A7E251}|TodoTaskApi.csproj|solutionrelative:services\\itodoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{609E716D-26E0-4D3B-AA8E-860108A7E251}|TodoTaskApi.csproj|c:\\yosh\\desarrollo\\to-do-task\\backend\\todotaskapi\\programpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{609E716D-26E0-4D3B-AA8E-860108A7E251}|TodoTaskApi.csproj|solutionrelative:programpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{609E716D-26E0-4D3B-AA8E-860108A7E251}|TodoTaskApi.csproj|c:\\yosh\\desarrollo\\to-do-task\\backend\\todotaskapi\\tests\\todotaskapi.tests\\todotaskapi.tests.csproj||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{609E716D-26E0-4D3B-AA8E-860108A7E251}|TodoTaskApi.csproj|solutionrelative:tests\\todotaskapi.tests\\todotaskapi.tests.csproj||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +74,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 17,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,6 +131,214 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServiceTestBase.cs",
+              "DocumentMoniker": "C:\\Yosh\\Desarrollo\\to-do-task\\backend\\TodoTaskApi\\Tests\\TodoTaskApi.Tests\\Base\\ServiceTestBase.cs",
+              "RelativeDocumentMoniker": "Tests\\TodoTaskApi.Tests\\Base\\ServiceTestBase.cs",
+              "ToolTip": "C:\\Yosh\\Desarrollo\\to-do-task\\backend\\TodoTaskApi\\Tests\\TodoTaskApi.Tests\\Base\\ServiceTestBase.cs",
+              "RelativeToolTip": "Tests\\TodoTaskApi.Tests\\Base\\ServiceTestBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T00:44:14.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BaseControllerTest.cs",
+              "DocumentMoniker": "C:\\Yosh\\Desarrollo\\to-do-task\\backend\\TodoTaskApi\\Tests\\TodoTaskApi.Tests\\Base\\BaseControllerTest.cs",
+              "RelativeDocumentMoniker": "Tests\\TodoTaskApi.Tests\\Base\\BaseControllerTest.cs",
+              "ToolTip": "C:\\Yosh\\Desarrollo\\to-do-task\\backend\\TodoTaskApi\\Tests\\TodoTaskApi.Tests\\Base\\BaseControllerTest.cs",
+              "RelativeToolTip": "Tests\\TodoTaskApi.Tests\\Base\\BaseControllerTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T00:40:20.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ToDoControllerIntegrationTests.cs",
+              "DocumentMoniker": "C:\\Yosh\\Desarrollo\\to-do-task\\backend\\TodoTaskApi\\Tests\\TodoTaskApi.Tests\\Controllers\\ToDoControllerIntegrationTests.cs",
+              "RelativeDocumentMoniker": "Tests\\TodoTaskApi.Tests\\Controllers\\ToDoControllerIntegrationTests.cs",
+              "ToolTip": "C:\\Yosh\\Desarrollo\\to-do-task\\backend\\TodoTaskApi\\Tests\\TodoTaskApi.Tests\\Controllers\\ToDoControllerIntegrationTests.cs",
+              "RelativeToolTip": "Tests\\TodoTaskApi.Tests\\Controllers\\ToDoControllerIntegrationTests.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAiwB0AAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T00:22:23.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ToDoServiceTests.cs",
+              "DocumentMoniker": "C:\\Yosh\\Desarrollo\\to-do-task\\backend\\TodoTaskApi\\Tests\\TodoTaskApi.Tests\\Services\\ToDoServiceTests.cs",
+              "RelativeDocumentMoniker": "Tests\\TodoTaskApi.Tests\\Services\\ToDoServiceTests.cs",
+              "ToolTip": "C:\\Yosh\\Desarrollo\\to-do-task\\backend\\TodoTaskApi\\Tests\\TodoTaskApi.Tests\\Services\\ToDoServiceTests.cs",
+              "RelativeToolTip": "Tests\\TodoTaskApi.Tests\\Services\\ToDoServiceTests.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowCkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T00:22:16.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TodoTaskApi.Tests.csproj",
+              "DocumentMoniker": "C:\\Yosh\\Desarrollo\\to-do-task\\backend\\TodoTaskApi\\Tests\\TodoTaskApi.Tests\\TodoTaskApi.Tests.csproj",
+              "RelativeDocumentMoniker": "Tests\\TodoTaskApi.Tests\\TodoTaskApi.Tests.csproj",
+              "ToolTip": "C:\\Yosh\\Desarrollo\\to-do-task\\backend\\TodoTaskApi\\Tests\\TodoTaskApi.Tests\\TodoTaskApi.Tests.csproj",
+              "RelativeToolTip": "Tests\\TodoTaskApi.Tests\\TodoTaskApi.Tests.csproj",
+              "ViewState": "AgIAABMAAAAAAAAAAABBwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-03T00:22:09.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProgramPartial.cs",
+              "DocumentMoniker": "C:\\Yosh\\Desarrollo\\to-do-task\\backend\\TodoTaskApi\\ProgramPartial.cs",
+              "RelativeDocumentMoniker": "ProgramPartial.cs",
+              "ToolTip": "C:\\Yosh\\Desarrollo\\to-do-task\\backend\\TodoTaskApi\\ProgramPartial.cs",
+              "RelativeToolTip": "ProgramPartial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T00:21:55.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Yosh\\Desarrollo\\to-do-task\\backend\\TodoTaskApi\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Yosh\\Desarrollo\\to-do-task\\backend\\TodoTaskApi\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-02-02T23:42:57.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ToDoController.cs",
+              "DocumentMoniker": "C:\\Yosh\\Desarrollo\\to-do-task\\backend\\TodoTaskApi\\Controllers\\ToDoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ToDoController.cs",
+              "ToolTip": "C:\\Yosh\\Desarrollo\\to-do-task\\backend\\TodoTaskApi\\Controllers\\ToDoController.cs",
+              "RelativeToolTip": "Controllers\\ToDoController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA5wDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T23:42:30.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ToDoService.cs",
+              "DocumentMoniker": "C:\\Yosh\\Desarrollo\\to-do-task\\backend\\TodoTaskApi\\Services\\ToDoService.cs",
+              "RelativeDocumentMoniker": "Services\\ToDoService.cs",
+              "ToolTip": "C:\\Yosh\\Desarrollo\\to-do-task\\backend\\TodoTaskApi\\Services\\ToDoService.cs",
+              "RelativeToolTip": "Services\\ToDoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T23:42:20.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IToDoService.cs",
+              "DocumentMoniker": "C:\\Yosh\\Desarrollo\\to-do-task\\backend\\TodoTaskApi\\Services\\IToDoService.cs",
+              "RelativeDocumentMoniker": "Services\\IToDoService.cs",
+              "ToolTip": "C:\\Yosh\\Desarrollo\\to-do-task\\backend\\TodoTaskApi\\Services\\IToDoService.cs",
+              "RelativeToolTip": "Services\\IToDoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T23:42:14.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ToDoDbContext.cs",
+              "DocumentMoniker": "C:\\Yosh\\Desarrollo\\to-do-task\\backend\\TodoTaskApi\\Data\\ToDoDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ToDoDbContext.cs",
+              "ToolTip": "C:\\Yosh\\Desarrollo\\to-do-task\\backend\\TodoTaskApi\\Data\\ToDoDbContext.cs",
+              "RelativeToolTip": "Data\\ToDoDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T23:42:10.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ToDoItem.cs",
+              "DocumentMoniker": "C:\\Yosh\\Desarrollo\\to-do-task\\backend\\TodoTaskApi\\Models\\ToDoItem.cs",
+              "RelativeDocumentMoniker": "Models\\ToDoItem.cs",
+              "ToolTip": "C:\\Yosh\\Desarrollo\\to-do-task\\backend\\TodoTaskApi\\Models\\ToDoItem.cs",
+              "RelativeToolTip": "Models\\ToDoItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T23:42:05.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TodoTaskApi",
+              "DocumentMoniker": "C:\\Yosh\\Desarrollo\\to-do-task\\backend\\TodoTaskApi\\TodoTaskApi.csproj",
+              "RelativeDocumentMoniker": "TodoTaskApi.csproj",
+              "ToolTip": "C:\\Yosh\\Desarrollo\\to-do-task\\backend\\TodoTaskApi\\TodoTaskApi.csproj",
+              "RelativeToolTip": "TodoTaskApi.csproj",
+              "ViewState": "AgIAABcAAAAAAAAAAEBVwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-02T23:42:00.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Yosh\\Desarrollo\\to-do-task\\backend\\TodoTaskApi\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "C:\\Yosh\\Desarrollo\\to-do-task\\backend\\TodoTaskApi\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T21:41:52.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Yosh\\Desarrollo\\to-do-task\\backend\\TodoTaskApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Yosh\\Desarrollo\\to-do-task\\backend\\TodoTaskApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T21:41:47.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Yosh\\Desarrollo\\to-do-task\\backend\\TodoTaskApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Yosh\\Desarrollo\\to-do-task\\backend\\TodoTaskApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T21:41:41.774Z",
+              "EditorCaption": ""
             }
           ]
         },
